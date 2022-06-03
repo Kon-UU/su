@@ -24,4 +24,5 @@ Y_SCALEDOWN - 가시성을 위하여 계산된 Y 값을 나누기
 ![Captured 2022-06-03 at 14 56 51@2x](https://user-images.githubusercontent.com/92216445/171795455-943f5ef8-632c-433b-beee-f14c84ad5fb0.png)
 
 ## 3X²+5X-15, X_SCALEUP = 10, Y_SCALEDOWN = 2
-![Captured 2022-06-03 at 14 56 51@2x](https://user-images.githubusercontent.com/92216445/171795527-64262f79-89d7-4434-adc5-a9c8ba8f7f0c.png)
+![Captured 2022-06-03 at 14 59 48@2x](https://user-images.githubusercontent.com/92216445/171795776-5a82f326-266c-4a39-a90f-6f088ef66916.png)
+
